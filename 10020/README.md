@@ -8,5 +8,5 @@
 Este diretório contém o código fonte gerado para solucionar o problema 10020
 do *Online Judge*. O problema recebeu veredito “Accepted”, como mostrado na
 figura abaixo:<br/>
-![Veredito](./10020-veredito.png)
+![Veredito](./10020-veredito.png) <br/>
 O programa foi desenvolvido em PYTH3 3.5.1 - Python 3
